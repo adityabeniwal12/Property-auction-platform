@@ -2,11 +2,11 @@ import React from 'react';
 import { Routes, Route } from 'react-router-dom';
 import Navbar from './components/Navbar.jsx';
 import Contact from "./pages/Contact.jsx"; 
-import Properties from './pages/properties.jsx';
+import Properties from './pages/Properties.jsx';
 import Login from './pages/Login.jsx';
 import Cities from './pages/Cities.jsx';
 import Services from './pages/Services.jsx';
-import Footer from './components/footer.jsx';
+import Footer from './components/Footer.jsx';
 
 import './App.css';
 import './index.css';
